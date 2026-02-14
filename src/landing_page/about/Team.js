@@ -21,9 +21,10 @@ function Team() {
         </div>
         <div className="col-6 p-3">
           <p>
-            Nisha Kumari bootstrapped and founded Zerodha in 2010 to overcome the
-            hurdles she faced during her decade long stint as a trader. Today,
-            Zerodha has changed the landscape of the Indian broking industry.
+            Nisha Kumari bootstrapped and founded Zerodha in 2010 to overcome
+            the hurdles she faced during her decade long stint as a trader.
+            Today, Zerodha has changed the landscape of the Indian broking
+            industry.
           </p>
           <p>
             She is a member of the SEBI Secondary Market Advisory Committee
