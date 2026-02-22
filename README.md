@@ -13,7 +13,7 @@ A full-stack trading platform inspired by Zerodha, built using modern web techno
 👉 https://zerodha-trade-1.onrender.com
 
 🔹 **Backend (API Server)**  
-👉 https://your-backend-link.onrender.com  
+👉 https://zerodha-trade-2.onrender.com 
 
 ---
 
